@@ -4,10 +4,10 @@ This notebook documents the data, methods, and reproducibility workflow for the 
 
 ## Contact Information
 
-- **Author:** Yanni Yang  
-- **Email:** yanni.yang@oulu.fi  
-- **Organization:** University of Oulu  
-- **Profile:** [University profile](https://www.oulu.fi/en/researchers/yanni-yang)
+**Author:** Yanni Yang  
+**Email:** yanni.yang@oulu.fi  
+**Organization:** University of Oulu  
+**Profile:** [University profile](https://www.oulu.fi/en/researchers/yanni-yang)
 
 ## Project Overview
 
