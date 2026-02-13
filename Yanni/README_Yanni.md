@@ -53,3 +53,6 @@ Sampling campaigns: 2022–2025
 - Floodplain zones act as hotspots of GW–SW carbon transformation.
 - Vertical decoupling between transient DOC inputs and persistent DIC storage is observed.
 - The aquifer alternates between acting as a carbon sink and source across hydrological phases.
+## Conceptual Model
+
+![Conceptual model of the Oulanka aquifer](WaterDig/Yanni/Oulanka_3D.png)
