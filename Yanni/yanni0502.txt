@@ -32,3 +32,6 @@
    32  git commit -m 'Olive is sleeping'
    33  history
    34  history > yanni0502.txt
+   35  cd ..
+   36  cd ..
+   37  history > yanni0502.txt

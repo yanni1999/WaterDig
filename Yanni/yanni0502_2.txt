@@ -1,0 +1,28 @@
+    1  gh auth login
+    2  gh auth login
+    3  gh auth status
+    4  git config --global  user.name "Yanni Yang"
+    5  git config --global user.email "yanni.yang@oulu.fi"
+    6  cd WaterDig/
+    7  git status
+    8  git commit -m "today's code script 0502"
+    9  git commit CodeSprints/Python101.ipynb 
+   10  git push
+   11  git status
+   12  git add .
+   13  git commit -m "today's code script 0502"
+   14  git push
+   15  git pull
+   16  git config --global pull.rebase false
+   17  git pull
+   18  git status
+   19  git add .
+   20  git add *
+   21  git commit -m "today's code script 0502"
+   22  git push
+   23  history
+   24  cd ..
+   25  cd history
+   26  history
+   27  history > yanni0502_2
+   28  history > yanni0502_2.txt

@@ -1,0 +1,118 @@
+    1  gh auth login
+    2  gh auth login
+    3  gh auth status
+    4  git config --global  user.name "Yanni Yang"
+    5  git config --global user.email "yanni.yang@oulu.fi"
+    6  echo
+    7  df -h
+    8  du -sh *
+    9  du -sh*
+   10  du -sh *
+   11  lscpu
+   12  dpkg -1
+   13  dpkg -l
+   14  ipython
+   15  pwd
+   16  ls
+   17  cd ~
+   18  mkdir one
+   19  ls
+   20  cd one
+   21  mkdir two
+   22  cd two
+   23  mkdir three
+   24  cd three
+   25  mkdir four
+   26  cd four
+   27  pwd
+   28  cat > data.tx
+   29  cat > data.txt
+   30  ls
+   31  cat data.txt
+   32  cd ~
+   33  ls
+   34  cat > data.txt
+   35  cat data.txt
+   36  cat one/two/three/four/data.txt
+   37  ls
+   38  ls one
+   39  ls one/two
+   40  ls one/two/three
+   41  ls one/two/three/four
+   42  git clone https://github.com/veltman/clmystery
+   43  ls clmystery/
+   44  ls mystery/
+   45  ls/mystery
+   46  ls clmystery/mystery
+   47  nano cheatsheet.md
+   48  nano clymystery/cheatsheet
+   49  nano clymystery/cheatsheet.md
+   50  nano clmystery/cheatsheet.md
+   51  cd clmystery
+   52  ls
+   53  cat instructions
+   54  history
+   55  nano clmystery/hint8
+   56  nano clmystery/solution
+   57  ls clymystery
+   58  ls clmystery/
+   59  ls mystery/
+   60  ls
+   61  cd hint3
+   62  nano clmystery/cheatsheet.md
+   63  cd clmystery
+   64  nano clymstery/hint4
+   65  cd clmystery/hint5
+   66  nano clmystery/hint5
+   67  cd hint5
+   68  cd clmystery/mystery
+   69  cd mystery
+   70  grep -F CLUE crimescene
+   71  ls
+   72  grep -F Annabel Church
+   73  grep -F Annabel Fuglsang 1 people
+   74  grep -F Delta SkyMiles
+   75  grep -F Oluwasegun
+   76  grep -F male
+   77  grep -F AAA
+   78  grep -F AAA/*
+   79  grep -F New Zealand interviews/*
+   80  grep -F Oluwasegun interviews/*
+   81  grep -F Oluwasegun interviews/*
+   82  grep -F blond interviews/*
+   83  grep -F Delta SkyMiles interviews/*
+   84  grep -F Delta interviews/*
+   85  grep -F AAA interviews/*
+   86  cd interview-290346
+   87  cat interview-290346
+   88  cat interview-290346
+   89  cd interviews/interview-290346:
+   90  cat interviews/interview-290346:
+   91  cat interviews/interview-290346
+   92  grep -F male  interviews/*
+   93  grep -F Fuglang interviews/*
+   94  grep -F Fuglsang interviews/*
+   95  cat interviews/interview-871877
+   96  grep -F red car interviews/*
+   97  grep -F red car morning interviews/*
+   98  grep -F Alexandra interviews/*
+   99  grep -F Alexandra people/*
+  100  grep -F Christine interviews/*
+  101  grep -F Russell interviews/*
+  102  grep -F Bonk interviews/*
+  103  grep -F Bicet interviews/*
+  104  grep -F Madonna interviews/*
+  105  grep -F Kim interviews/*
+  106  grep -F Russell Bicet interviews/*
+  107  grep -F Christine Bonk interviews/*
+  108  grep -F L337 interviews/*
+  109  cat interviews/interview-699607
+  110  grep -F Alberto interviews/*
+  111  grep -F Pedersen interviews/*
+  112  history
+  113  ecullerlog.txt
+  114  yanni1999.txt
+  115  history > yanni1999.txt
+  116  cd ~
+  117  history
+  118  history > yanni1999.txt
