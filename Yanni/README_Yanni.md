@@ -55,4 +55,5 @@ Sampling campaigns: 2022–2025
 - The aquifer alternates between acting as a carbon sink and source across hydrological phases.
 ## Conceptual Model
 
-![Conceptual model of the Oulanka aquifer](WaterDig/Yanni/Oulanka_3D.png)
+![Conceptual model of the Oulanka aquifer](Yanni/Oulanka_3D.png)
+
