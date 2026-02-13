@@ -2,11 +2,12 @@
 
 This notebook documents the data, methods, and reproducibility workflow for the study of groundwater–surface water (GW–SW) interactions and carbon cycling in the Oulanka aquifer (NE Finland).
 
-## Contact information
-Author: Yanni Yang
-Email: yanni.yang@oulu.fi
-Organization: University of Oulu
-Find me [https://www.oulu.fi/en/researchers/yanni-yang]
+## Contact Information
+
+- **Author:** Yanni Yang  
+- **Email:** yanni.yang@oulu.fi  
+- **Organization:** University of Oulu  
+- **Profile:** [University profile](https://www.oulu.fi/en/researchers/yanni-yang)
 
 ## Project Overview
 
@@ -52,5 +53,3 @@ Sampling campaigns: 2022–2025
 - Floodplain zones act as hotspots of GW–SW carbon transformation.
 - Vertical decoupling between transient DOC inputs and persistent DIC storage is observed.
 - The aquifer alternates between acting as a carbon sink and source across hydrological phases.
-
-
